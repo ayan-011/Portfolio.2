@@ -57,7 +57,7 @@ const HeroSection = () => {
           </div>
         </div> */}
 
-        <motion.p ref={headingRef} className="w-full bg-red z-999 p-4">Crafting digital experiences that inspire</motion.p>
+        {/* <motion.p ref={headingRef} className="w-full bg-red z-999 p-4">Crafting digital experiences that inspire</motion.p> */}
 
         <motion.p
           initial={{ opacity: 0 }}
